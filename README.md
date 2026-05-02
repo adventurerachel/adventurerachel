@@ -1,6 +1,6 @@
 ## Hi there, I'm Rachel 👋
 
-Curious by nature, builder by habit. Based in London, but exploring the world outside as much as possible. Also exploring what's possible with code, one experiment at a time.
+Curious by nature, builder by habit. Currently based in London, but exploring the world outside as much as possible. Also exploring what's possible with code, one experiment at a time.
  
 ---
  
@@ -15,7 +15,7 @@ Curious by nature, builder by habit. Based in London, but exploring the world ou
  
 ## What I'm up to
  
-🤖 **Building:** My [digital twin project](link-to-repo) — exploring AI and personal data modelling  
+🤖 **Building:** My [digital twin project]([link-to-repo](https://github.com/adventurerachel/digital-twin)) — exploring AI and personal data modelling  
 📚 **Learning:** AI, data engineering, GitHub workflows, version control best practices, and whatever course catches my eye next  
 🌱 **Goal:** Fill this profile with things I'm genuinely proud of by the end of this year  
 🤝 **Open to:** Collaboration, feedback, and connecting with others who are learning in public
@@ -30,7 +30,7 @@ You'll find a lot of forks here — aspirational bookmarks from years of "I'll g
  
 ## Let's connect
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rachelphang)
 
 <!--
 **adventurerachel/adventurerachel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
