@@ -1,4 +1,4 @@
-## Hi there, I'm Rachel 👋
+## Hi there, I'm Rachel 👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 Curious by nature, builder by habit. Currently based in London, but exploring the world outside as much as possible. Also exploring what's possible with code, one experiment at a time.
  
