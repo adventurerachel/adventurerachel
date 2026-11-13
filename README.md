@@ -24,7 +24,7 @@ Curious by nature, builder by habit. Currently based in London, but exploring th
  
 ## A note on my repos
  
-You'll find a lot of forks here — aspirational bookmarks from years of "I'll get to this" intentions. I'm now actually getting to them. Watch this space. 👀
+You'll find a lot of forks here — aspirational bookmarks from years of "I'll get to this" intentions. I might now actually get to them. Watch this space. 👀
  
 ---
  
